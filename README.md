@@ -15,7 +15,7 @@ SlurpAI is a command-line tool that automatically scrapes web-based documentatio
 
 ```bash
 # Clone the repository
-# git clone https://github.com/yourusername/slurpai.git # Replace with actual repo URL later
+# git clone https://github.com/ratacat/slurp-ai.git
 cd slurpai
 
 # Install dependencies
