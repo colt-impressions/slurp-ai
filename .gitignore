@@ -5,3 +5,6 @@ test-docs
 compiled/
 slurp_partials/
 docs/
+slurp_docs/
+Samples/
+roo-docs/

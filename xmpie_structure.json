@@ -1,0 +1,1609 @@
+{
+  "sections": [
+    "Introduction",
+    "Presets",
+    "StoreSetup",
+    "Product_Profiles",
+    "ProductSetup",
+    "Users_and_Groups",
+    "Orders_Reports",
+    "SSL_Certificate",
+    "index.htm"
+  ],
+  "subsections": [],
+  "sectionToTopics": {
+    "Introduction": [
+      "Introduction",
+      "Introduction_to_uStore",
+      "uStore_FAQ",
+      "Application_Overview",
+      "Introduction_to_uStore",
+      "Introduction_to_uStore",
+      "Application_Overview",
+      "uStore_FAQ",
+      "uStore_FAQ",
+      "uStore_FAQ",
+      "uStore_FAQ",
+      "uStore_FAQ",
+      "uStore_FAQ",
+      "uStore_FAQ",
+      "uStore_FAQ",
+      "Application_Overview",
+      "Application_Overview",
+      "Application_Overview",
+      "Application_Overview"
+    ],
+    "Presets": [
+      "presets",
+      "Managing_uStore_Presets",
+      "clearing-models",
+      "Managing_Coupon_Batches",
+      "Defining_Currencies",
+      "Defining_Data_Sources",
+      "delivery-accounts",
+      "Setting_Up_Document_Repositories",
+      "Setting_Up_Global_Product_Properties",
+      "Setting_Up_Manufacturers",
+      "Localizing_your_Storefront_and_Backoffice",
+      "Using_the_Proxy_Setup_Utility",
+      "system-setup",
+      "Setting_Up_Tax",
+      "triggers",
+      "Setting_Up_User_Details_Fields",
+      "Setting_Up_PersonalEffect_Connections_(Presets)",
+      "Setting_a_uStore_License_on_uProduce",
+      "XMPie_Services",
+      "Property_Options_Icon_Management",
+      "Managing_Store_Widgets",
+      "Configuring_the_Cart_Export_Webhook",
+      "Setting_a_Destination_for_Output_Files",
+      "Managing_uStore_Presets",
+      "Managing_uStore_Presets",
+      "Clearing_Model_Overview",
+      "Managing_Coupon_Batches",
+      "Defining_Currencies",
+      "Defining_Data_Sources",
+      "Setting_Up_Delivery_Accounts",
+      "Setting_Up_Document_Repositories",
+      "Setting_Up_Global_Product_Properties",
+      "Localizing_your_Storefront_and_Backoffice",
+      "Setting_Up_Manufacturers",
+      "Setting_Up_PersonalEffect_Connections_(Presets)",
+      "Property_Options_Icon_Management",
+      "Using_the_Proxy_Setup_Utility",
+      "System_Setup_Customizing_uStore_Tables",
+      "Setting_Up_Tax",
+      "Setting_Up_Triggers",
+      "Setting_Up_User_Details_Fields",
+      "Managing_Store_Widgets",
+      "XMPie_Services",
+      "Setting_a_Destination_for_Output_Files",
+      "Setting_Up_Prepress_Workflow_Providers",
+      "Setting_Up_the_Mall_Table",
+      "Managing_Coupon_Batches",
+      "Managing_Coupon_Batches",
+      "Defining_Currencies",
+      "Defining_Data_Sources",
+      "Setting_Up_Document_Repositories",
+      "Setting_Up_Document_Repositories",
+      "Setting_Up_Document_Repositories",
+      "Setting_Up_Document_Repositories",
+      "Setting_Up_Document_Repositories",
+      "Setting_Up_Document_Repositories",
+      "Setting_Up_Global_Product_Properties",
+      "Setting_Up_Manufacturers",
+      "Setting_Up_Manufacturers",
+      "Setting_Up_Manufacturers",
+      "Setting_Up_Manufacturers",
+      "Localizing_your_Storefront_and_Backoffice",
+      "Localizing_your_Storefront_and_Backoffice",
+      "Localizing_your_Storefront_and_Backoffice",
+      "Localizing_your_Storefront_and_Backoffice",
+      "Localizing_your_Storefront_and_Backoffice",
+      "Localizing_your_Storefront_and_Backoffice",
+      "Localizing_your_Storefront_and_Backoffice",
+      "Localizing_your_Storefront_and_Backoffice",
+      "Setting_Up_the_Culture_List_Table",
+      "Localizing_your_Storefront_and_Backoffice",
+      "Using_the_Proxy_Setup_Utility",
+      "Setting_Up_Tax",
+      "Setting_Up_Tax",
+      "Setting_Up_Tax",
+      "Setting_Up_Tax",
+      "Setting_Up_the_Tax_Group_Table",
+      "Global_Configurations_Table",
+      "Global_Configurations_Table",
+      "Global_Configurations_Table",
+      "Setting_Up_User_Details_Fields"
+    ],
+    "StoreSetup": [
+      "themes-lp",
+      "stores",
+      "Creating_a_New_Store",
+      "Store_Setup_General",
+      "Store_Appearance",
+      "Setting_Up_the_Store_Clearing_Methods",
+      "Defining_the_Store_s_Delivery_Settings",
+      "Setting_Up_Store_Permissions",
+      "Setting_Up_the_Store_Advanced_Parameters",
+      "Customizing_a_Theme",
+      "Setting_Up_an_Order_Approval_Process_for_a_Store",
+      "Setting_Up_a_Receipt_Template_for_a_Store",
+      "Implementing_Google_Analytics_in_Your_Store",
+      "Adding_Custom_JavaScript_to_Your_Store",
+      "Previewing_a_Store",
+      "Duplicating_a_Store",
+      "Localizing_a_Store",
+      "Making_your_Stores_GDPR_Compliant",
+      "Creating_a_New_Store",
+      "Themes"
+    ],
+    "Product_Profiles": [
+      "product-profiles",
+      "Creating_Product_Profiles",
+      "Linking_Products_to_a_Product_Profile",
+      "Overriding_Product_Profile_Settings",
+      "Managing_Product_Profiles",
+      "Creating_Product_Profiles",
+      "Overriding_Product_Profile_Settings"
+    ],
+    "ProductSetup": [
+      "product-types",
+      "Products_Overview",
+      "Static_Product",
+      "Easy_Upload_Product",
+      "Dynamic_Product",
+      "Kit_Product",
+      "Upload_Product",
+      "Composite_Product",
+      "XM_Campaign_Product",
+      "Email_Product",
+      "Managing_Products",
+      "creating-prods",
+      "Creating_Products",
+      "Product_Groups",
+      "Setting_Up_Product_General_Information",
+      "Setting_Up_Product_Information_in_the_Storefront",
+      "setting-up-prod-template",
+      "Setting_Up_Cross_Media_Website",
+      "Setting_Up_a_Proof",
+      "Including_the_Product_in_Product_Groups",
+      "Setting_Up_Pricing_and_Tax",
+      "Setting_Up_Advanced_Parameters",
+      "Creating_Products_with_Personalized_URLs",
+      "product-setup",
+      "Setting_Up_your_Products",
+      "product-components",
+      "product-properties",
+      "product-pricing",
+      "customization-wizard",
+      "Setting_Up_uEdit",
+      "recipients",
+      "Setting_Up_Delivery",
+      "Setting_Up_Product_Inventory",
+      "Setting_Up_Prepress_Workflows",
+      "Dynamic_Product",
+      "Dynamic_Product",
+      "Products_Overview",
+      "Setting_Up_Product_Properties",
+      "Setting_Up_Upload_Products",
+      "Setting_Up_Delivery"
+    ],
+    "Users_and_Groups": [
+      "users-groups",
+      "Setting_up_Users_and_User_Groups",
+      "Managing_Users",
+      "User_Groups_Types",
+      "Creating_a_New_User_Group",
+      "Assigning_Users_to_the_User_Group",
+      "Assigning_Permissions_to_the_User_Group",
+      "Creating_User_Groups_that_Match_LDAP_Groups",
+      "Setting_up_Users_and_User_Groups"
+    ],
+    "Orders_Reports": [
+      "order-reports",
+      "Handling_Orders",
+      "Defining_Columns_in_the_Orders_List",
+      "Managing_Print_Product_Orders",
+      "Managing_Email_Product_Orders",
+      "General_and_Print_Queues",
+      "Handling_Print_Touchpoints",
+      "XM_Campaign_Queues",
+      "Viewing_Order_Information",
+      "Viewing_Ordered_Item_Information",
+      "Managing_the_Order_Lists_View",
+      "Generating_Reports",
+      "Handling_Orders",
+      "Generating_Reports"
+    ],
+    "SSL_Certificate": [
+      "ssl",
+      "SSL_Certificate_Overview",
+      "Creating_and_Installing_an_SSL_Certificate"
+    ],
+    "index.htm": []
+  },
+  "patterns": [
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Introduction/Introduction.htm?TocPath=uStore%7CIntroduction%7C_____0",
+      "relPath": "Introduction/Introduction.htm",
+      "breadcrumb": [
+        "uStore",
+        "Introduction",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Introduction/Introduction_to_uStore.htm?TocPath=uStore%7CIntroduction%7C_____1",
+      "relPath": "Introduction/Introduction_to_uStore.htm",
+      "breadcrumb": [
+        "uStore",
+        "Introduction",
+        "_____1"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Introduction/uStore_FAQ.htm?TocPath=uStore%7CIntroduction%7C_____2",
+      "relPath": "Introduction/uStore_FAQ.htm",
+      "breadcrumb": [
+        "uStore",
+        "Introduction",
+        "_____2"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Introduction/Application_Overview.htm?TocPath=uStore%7CIntroduction%7C_____3",
+      "relPath": "Introduction/Application_Overview.htm",
+      "breadcrumb": [
+        "uStore",
+        "Introduction",
+        "_____3"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/presets.htm?TocPath=uStore%7CPresets%7C_____0",
+      "relPath": "Presets/presets.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Managing_uStore_Presets.htm?TocPath=uStore%7CPresets%7C_____1",
+      "relPath": "Presets/Managing_uStore_Presets.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____1"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/clearing-models.htm?TocPath=uStore%7CPresets%7CClearing%20Models%7C_____0",
+      "relPath": "Presets/clearing-models.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "Clearing Models",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Managing_Coupon_Batches.htm?TocPath=uStore%7CPresets%7C_____3",
+      "relPath": "Presets/Managing_Coupon_Batches.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____3"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Defining_Currencies.htm?TocPath=uStore%7CPresets%7C_____4",
+      "relPath": "Presets/Defining_Currencies.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____4"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Defining_Data_Sources.htm?TocPath=uStore%7CPresets%7C_____5",
+      "relPath": "Presets/Defining_Data_Sources.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____5"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/delivery-accounts.htm?TocPath=uStore%7CPresets%7CDelivery%20Accounts%7C_____0",
+      "relPath": "Presets/delivery-accounts.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "Delivery Accounts",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_Document_Repositories.htm?TocPath=uStore%7CPresets%7C_____7",
+      "relPath": "Presets/Setting_Up_Document_Repositories.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____7"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_Global_Product_Properties.htm?TocPath=uStore%7CPresets%7C_____8",
+      "relPath": "Presets/Setting_Up_Global_Product_Properties.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____8"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_Manufacturers.htm?TocPath=uStore%7CPresets%7C_____9",
+      "relPath": "Presets/Setting_Up_Manufacturers.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____9"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Localizing_your_Storefront_and_Backoffice.htm?TocPath=uStore%7CPresets%7C_____10",
+      "relPath": "Presets/Localizing_your_Storefront_and_Backoffice.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____10"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Using_the_Proxy_Setup_Utility.htm?TocPath=uStore%7CPresets%7C_____11",
+      "relPath": "Presets/Using_the_Proxy_Setup_Utility.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____11"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/system-setup.htm?TocPath=uStore%7CPresets%7CSystem%20Setup%7C_____0",
+      "relPath": "Presets/system-setup.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "System Setup",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_Tax.htm?TocPath=uStore%7CPresets%7C_____13",
+      "relPath": "Presets/Setting_Up_Tax.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____13"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/triggers.htm?TocPath=uStore%7CPresets%7CTriggers%7C_____0",
+      "relPath": "Presets/triggers.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "Triggers",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_User_Details_Fields.htm?TocPath=uStore%7CPresets%7C_____15",
+      "relPath": "Presets/Setting_Up_User_Details_Fields.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____15"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_PersonalEffect_Connections_(Presets).htm?TocPath=uStore%7CPresets%7C_____16",
+      "relPath": "Presets/Setting_Up_PersonalEffect_Connections_(Presets).htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____16"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_a_uStore_License_on_uProduce.htm?TocPath=uStore%7CPresets%7C_____17",
+      "relPath": "Presets/Setting_a_uStore_License_on_uProduce.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____17"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/XMPie_Services.htm?TocPath=uStore%7CPresets%7C_____18",
+      "relPath": "Presets/XMPie_Services.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____18"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Property_Options_Icon_Management.htm?TocPath=uStore%7CPresets%7C_____19",
+      "relPath": "Presets/Property_Options_Icon_Management.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____19"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/StoreSetup/themes-lp.htm?TocPath=uStore%7CPresets%7CThemes%7C_____0",
+      "relPath": "StoreSetup/themes-lp.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "Themes",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Managing_Store_Widgets.htm?TocPath=uStore%7CPresets%7C_____21",
+      "relPath": "Presets/Managing_Store_Widgets.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____21"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Configuring_the_Cart_Export_Webhook.htm?TocPath=uStore%7CPresets%7C_____22",
+      "relPath": "Presets/Configuring_the_Cart_Export_Webhook.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____22"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_a_Destination_for_Output_Files.htm?TocPath=uStore%7CPresets%7C_____23",
+      "relPath": "Presets/Setting_a_Destination_for_Output_Files.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____23"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/StoreSetup/stores.htm?TocPath=uStore%7CStores%7C_____0",
+      "relPath": "StoreSetup/stores.htm",
+      "breadcrumb": [
+        "uStore",
+        "Stores",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/StoreSetup/Creating_a_New_Store.htm?TocPath=uStore%7CStores%7C_____1",
+      "relPath": "StoreSetup/Creating_a_New_Store.htm",
+      "breadcrumb": [
+        "uStore",
+        "Stores",
+        "_____1"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/StoreSetup/Store_Setup_General.htm?TocPath=uStore%7CStores%7CStore%20General%20Information%7C_____0",
+      "relPath": "StoreSetup/Store_Setup_General.htm",
+      "breadcrumb": [
+        "uStore",
+        "Stores",
+        "Store General Information",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/StoreSetup/Store_Appearance.htm?TocPath=uStore%7CStores%7CStore%20Appearance%7C_____0",
+      "relPath": "StoreSetup/Store_Appearance.htm",
+      "breadcrumb": [
+        "uStore",
+        "Stores",
+        "Store Appearance",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/StoreSetup/Setting_Up_the_Store_Clearing_Methods.htm?TocPath=uStore%7CStores%7C_____4",
+      "relPath": "StoreSetup/Setting_Up_the_Store_Clearing_Methods.htm",
+      "breadcrumb": [
+        "uStore",
+        "Stores",
+        "_____4"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/StoreSetup/Defining_the_Store_s_Delivery_Settings.htm?TocPath=uStore%7CStores%7C_____5",
+      "relPath": "StoreSetup/Defining_the_Store_s_Delivery_Settings.htm",
+      "breadcrumb": [
+        "uStore",
+        "Stores",
+        "_____5"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/StoreSetup/Setting_Up_Store_Permissions.htm?TocPath=uStore%7CStores%7C_____6",
+      "relPath": "StoreSetup/Setting_Up_Store_Permissions.htm",
+      "breadcrumb": [
+        "uStore",
+        "Stores",
+        "_____6"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/StoreSetup/Setting_Up_the_Store_Advanced_Parameters.htm?TocPath=uStore%7CStores%7C_____7",
+      "relPath": "StoreSetup/Setting_Up_the_Store_Advanced_Parameters.htm",
+      "breadcrumb": [
+        "uStore",
+        "Stores",
+        "_____7"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/StoreSetup/Customizing_a_Theme.htm?TocPath=uStore%7CStores%7C_____8",
+      "relPath": "StoreSetup/Customizing_a_Theme.htm",
+      "breadcrumb": [
+        "uStore",
+        "Stores",
+        "_____8"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/StoreSetup/Setting_Up_an_Order_Approval_Process_for_a_Store.htm?TocPath=uStore%7CStores%7C_____9",
+      "relPath": "StoreSetup/Setting_Up_an_Order_Approval_Process_for_a_Store.htm",
+      "breadcrumb": [
+        "uStore",
+        "Stores",
+        "_____9"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/StoreSetup/Setting_Up_a_Receipt_Template_for_a_Store.htm?TocPath=uStore%7CStores%7C_____10",
+      "relPath": "StoreSetup/Setting_Up_a_Receipt_Template_for_a_Store.htm",
+      "breadcrumb": [
+        "uStore",
+        "Stores",
+        "_____10"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/StoreSetup/Implementing_Google_Analytics_in_Your_Store.htm?TocPath=uStore%7CStores%7C_____11",
+      "relPath": "StoreSetup/Implementing_Google_Analytics_in_Your_Store.htm",
+      "breadcrumb": [
+        "uStore",
+        "Stores",
+        "_____11"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/StoreSetup/Adding_Custom_JavaScript_to_Your_Store.htm?TocPath=uStore%7CStores%7C_____12",
+      "relPath": "StoreSetup/Adding_Custom_JavaScript_to_Your_Store.htm",
+      "breadcrumb": [
+        "uStore",
+        "Stores",
+        "_____12"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/StoreSetup/Previewing_a_Store.htm?TocPath=uStore%7CStores%7C_____13",
+      "relPath": "StoreSetup/Previewing_a_Store.htm",
+      "breadcrumb": [
+        "uStore",
+        "Stores",
+        "_____13"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/StoreSetup/Duplicating_a_Store.htm?TocPath=uStore%7CStores%7C_____14",
+      "relPath": "StoreSetup/Duplicating_a_Store.htm",
+      "breadcrumb": [
+        "uStore",
+        "Stores",
+        "_____14"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/StoreSetup/Localizing_a_Store.htm?TocPath=uStore%7CStores%7C_____15",
+      "relPath": "StoreSetup/Localizing_a_Store.htm",
+      "breadcrumb": [
+        "uStore",
+        "Stores",
+        "_____15"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/StoreSetup/Making_your_Stores_GDPR_Compliant.htm?TocPath=uStore%7CStores%7C_____16",
+      "relPath": "StoreSetup/Making_your_Stores_GDPR_Compliant.htm",
+      "breadcrumb": [
+        "uStore",
+        "Stores",
+        "_____16"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Product_Profiles/product-profiles.htm?TocPath=uStore%7CProduct%20Profiles%7C_____0",
+      "relPath": "Product_Profiles/product-profiles.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Profiles",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Product_Profiles/Creating_Product_Profiles.htm?TocPath=uStore%7CProduct%20Profiles%7C_____1",
+      "relPath": "Product_Profiles/Creating_Product_Profiles.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Profiles",
+        "_____1"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Product_Profiles/Linking_Products_to_a_Product_Profile.htm?TocPath=uStore%7CProduct%20Profiles%7C_____2",
+      "relPath": "Product_Profiles/Linking_Products_to_a_Product_Profile.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Profiles",
+        "_____2"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Product_Profiles/Overriding_Product_Profile_Settings.htm?TocPath=uStore%7CProduct%20Profiles%7C_____3",
+      "relPath": "Product_Profiles/Overriding_Product_Profile_Settings.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Profiles",
+        "_____3"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Product_Profiles/Managing_Product_Profiles.htm?TocPath=uStore%7CProduct%20Profiles%7C_____4",
+      "relPath": "Product_Profiles/Managing_Product_Profiles.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Profiles",
+        "_____4"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/product-types.htm?TocPath=uStore%7CProduct%20Types%7C_____0",
+      "relPath": "ProductSetup/product-types.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Types",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Products_Overview.htm?TocPath=uStore%7CProduct%20Types%7C_____1",
+      "relPath": "ProductSetup/Products_Overview.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Types",
+        "_____1"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Static_Product.htm?TocPath=uStore%7CProduct%20Types%7C_____2",
+      "relPath": "ProductSetup/Static_Product.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Types",
+        "_____2"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Easy_Upload_Product.htm?TocPath=uStore%7CProduct%20Types%7C_____3",
+      "relPath": "ProductSetup/Easy_Upload_Product.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Types",
+        "_____3"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Dynamic_Product.htm?TocPath=uStore%7CProduct%20Types%7C_____4",
+      "relPath": "ProductSetup/Dynamic_Product.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Types",
+        "_____4"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Kit_Product.htm?TocPath=uStore%7CProduct%20Types%7C_____5",
+      "relPath": "ProductSetup/Kit_Product.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Types",
+        "_____5"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Upload_Product.htm?TocPath=uStore%7CProduct%20Types%7C_____6",
+      "relPath": "ProductSetup/Upload_Product.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Types",
+        "_____6"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Composite_Product.htm?TocPath=uStore%7CProduct%20Types%7C_____7",
+      "relPath": "ProductSetup/Composite_Product.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Types",
+        "_____7"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/XM_Campaign_Product.htm?TocPath=uStore%7CProduct%20Types%7C_____8",
+      "relPath": "ProductSetup/XM_Campaign_Product.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Types",
+        "_____8"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Email_Product.htm?TocPath=uStore%7CProduct%20Types%7C_____9",
+      "relPath": "ProductSetup/Email_Product.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Types",
+        "_____9"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Managing_Products.htm?TocPath=uStore%7CProduct%20Types%7C_____10",
+      "relPath": "ProductSetup/Managing_Products.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Types",
+        "_____10"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/creating-prods.htm?TocPath=uStore%7CCreating%20Products%7C_____0",
+      "relPath": "ProductSetup/creating-prods.htm",
+      "breadcrumb": [
+        "uStore",
+        "Creating Products",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Creating_Products.htm?TocPath=uStore%7CCreating%20Products%7C_____1",
+      "relPath": "ProductSetup/Creating_Products.htm",
+      "breadcrumb": [
+        "uStore",
+        "Creating Products",
+        "_____1"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Product_Groups.htm?TocPath=uStore%7CCreating%20Products%7C_____2",
+      "relPath": "ProductSetup/Product_Groups.htm",
+      "breadcrumb": [
+        "uStore",
+        "Creating Products",
+        "_____2"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Setting_Up_Product_General_Information.htm?TocPath=uStore%7CCreating%20Products%7C_____3",
+      "relPath": "ProductSetup/Setting_Up_Product_General_Information.htm",
+      "breadcrumb": [
+        "uStore",
+        "Creating Products",
+        "_____3"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Setting_Up_Product_Information_in_the_Storefront.htm?TocPath=uStore%7CCreating%20Products%7C_____4",
+      "relPath": "ProductSetup/Setting_Up_Product_Information_in_the_Storefront.htm",
+      "breadcrumb": [
+        "uStore",
+        "Creating Products",
+        "_____4"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/setting-up-prod-template.htm?TocPath=uStore%7CCreating%20Products%7CSetting%20up%20Product%20Document%2FTemplate%7C_____0",
+      "relPath": "ProductSetup/setting-up-prod-template.htm",
+      "breadcrumb": [
+        "uStore",
+        "Creating Products",
+        "Setting up Product Document/Template",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Setting_Up_Cross_Media_Website.htm?TocPath=uStore%7CCreating%20Products%7C_____6",
+      "relPath": "ProductSetup/Setting_Up_Cross_Media_Website.htm",
+      "breadcrumb": [
+        "uStore",
+        "Creating Products",
+        "_____6"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Setting_Up_a_Proof.htm?TocPath=uStore%7CCreating%20Products%7C_____7",
+      "relPath": "ProductSetup/Setting_Up_a_Proof.htm",
+      "breadcrumb": [
+        "uStore",
+        "Creating Products",
+        "_____7"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Including_the_Product_in_Product_Groups.htm?TocPath=uStore%7CCreating%20Products%7C_____8",
+      "relPath": "ProductSetup/Including_the_Product_in_Product_Groups.htm",
+      "breadcrumb": [
+        "uStore",
+        "Creating Products",
+        "_____8"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Setting_Up_Pricing_and_Tax.htm?TocPath=uStore%7CCreating%20Products%7C_____9",
+      "relPath": "ProductSetup/Setting_Up_Pricing_and_Tax.htm",
+      "breadcrumb": [
+        "uStore",
+        "Creating Products",
+        "_____9"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Setting_Up_Advanced_Parameters.htm?TocPath=uStore%7CCreating%20Products%7C_____10",
+      "relPath": "ProductSetup/Setting_Up_Advanced_Parameters.htm",
+      "breadcrumb": [
+        "uStore",
+        "Creating Products",
+        "_____10"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Creating_Products_with_Personalized_URLs.htm?TocPath=uStore%7CCreating%20Products%7C_____11",
+      "relPath": "ProductSetup/Creating_Products_with_Personalized_URLs.htm",
+      "breadcrumb": [
+        "uStore",
+        "Creating Products",
+        "_____11"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/product-setup.htm?TocPath=uStore%7CProduct%20Setup%7C_____0",
+      "relPath": "ProductSetup/product-setup.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Setup",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Setting_Up_your_Products.htm?TocPath=uStore%7CProduct%20Setup%7C_____1",
+      "relPath": "ProductSetup/Setting_Up_your_Products.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Setup",
+        "_____1"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/product-components.htm?TocPath=uStore%7CProduct%20Setup%7CProduct%20Components%7C_____0",
+      "relPath": "ProductSetup/product-components.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Setup",
+        "Product Components",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/product-properties.htm?TocPath=uStore%7CProduct%20Setup%7CProduct%20Properties%7C_____0",
+      "relPath": "ProductSetup/product-properties.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Setup",
+        "Product Properties",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/product-pricing.htm?TocPath=uStore%7CProduct%20Setup%7CProduct%20Pricing%7C_____0",
+      "relPath": "ProductSetup/product-pricing.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Setup",
+        "Product Pricing",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/customization-wizard.htm?TocPath=uStore%7CProduct%20Setup%7CCustomization%20Wizard%7C_____0",
+      "relPath": "ProductSetup/customization-wizard.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Setup",
+        "Customization Wizard",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Setting_Up_uEdit.htm?TocPath=uStore%7CProduct%20Setup%7C_____6",
+      "relPath": "ProductSetup/Setting_Up_uEdit.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Setup",
+        "_____6"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/recipients.htm?TocPath=uStore%7CProduct%20Setup%7CRecipients%7C_____0",
+      "relPath": "ProductSetup/recipients.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Setup",
+        "Recipients",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Setting_Up_Delivery.htm?TocPath=uStore%7CProduct%20Setup%7C_____8",
+      "relPath": "ProductSetup/Setting_Up_Delivery.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Setup",
+        "_____8"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Setting_Up_Product_Inventory.htm?TocPath=uStore%7CProduct%20Setup%7C_____9",
+      "relPath": "ProductSetup/Setting_Up_Product_Inventory.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Setup",
+        "_____9"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/ProductSetup/Setting_Up_Prepress_Workflows.htm?TocPath=uStore%7CProduct%20Setup%7C_____10",
+      "relPath": "ProductSetup/Setting_Up_Prepress_Workflows.htm",
+      "breadcrumb": [
+        "uStore",
+        "Product Setup",
+        "_____10"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Users_and_Groups/users-groups.htm?TocPath=uStore%7CUsers%20and%20User%20Groups%7C_____0",
+      "relPath": "Users_and_Groups/users-groups.htm",
+      "breadcrumb": [
+        "uStore",
+        "Users and User Groups",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Users_and_Groups/Setting_up_Users_and_User_Groups.htm?TocPath=uStore%7CUsers%20and%20User%20Groups%7C_____1",
+      "relPath": "Users_and_Groups/Setting_up_Users_and_User_Groups.htm",
+      "breadcrumb": [
+        "uStore",
+        "Users and User Groups",
+        "_____1"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Users_and_Groups/Managing_Users.htm?TocPath=uStore%7CUsers%20and%20User%20Groups%7C_____2",
+      "relPath": "Users_and_Groups/Managing_Users.htm",
+      "breadcrumb": [
+        "uStore",
+        "Users and User Groups",
+        "_____2"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Users_and_Groups/User_Groups_Types.htm?TocPath=uStore%7CUsers%20and%20User%20Groups%7C_____3",
+      "relPath": "Users_and_Groups/User_Groups_Types.htm",
+      "breadcrumb": [
+        "uStore",
+        "Users and User Groups",
+        "_____3"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Users_and_Groups/Creating_a_New_User_Group.htm?TocPath=uStore%7CUsers%20and%20User%20Groups%7C_____4",
+      "relPath": "Users_and_Groups/Creating_a_New_User_Group.htm",
+      "breadcrumb": [
+        "uStore",
+        "Users and User Groups",
+        "_____4"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Users_and_Groups/Assigning_Users_to_the_User_Group.htm?TocPath=uStore%7CUsers%20and%20User%20Groups%7C_____5",
+      "relPath": "Users_and_Groups/Assigning_Users_to_the_User_Group.htm",
+      "breadcrumb": [
+        "uStore",
+        "Users and User Groups",
+        "_____5"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Users_and_Groups/Assigning_Permissions_to_the_User_Group.htm?TocPath=uStore%7CUsers%20and%20User%20Groups%7C_____6",
+      "relPath": "Users_and_Groups/Assigning_Permissions_to_the_User_Group.htm",
+      "breadcrumb": [
+        "uStore",
+        "Users and User Groups",
+        "_____6"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Users_and_Groups/Creating_User_Groups_that_Match_LDAP_Groups.htm?TocPath=uStore%7CUsers%20and%20User%20Groups%7C_____7",
+      "relPath": "Users_and_Groups/Creating_User_Groups_that_Match_LDAP_Groups.htm",
+      "breadcrumb": [
+        "uStore",
+        "Users and User Groups",
+        "_____7"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Orders_Reports/order-reports.htm?TocPath=uStore%7COrders%20%26%20Reports%7C_____0",
+      "relPath": "Orders_Reports/order-reports.htm",
+      "breadcrumb": [
+        "uStore",
+        "Orders & Reports",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Orders_Reports/Handling_Orders.htm?TocPath=uStore%7COrders%20%26%20Reports%7C_____1",
+      "relPath": "Orders_Reports/Handling_Orders.htm",
+      "breadcrumb": [
+        "uStore",
+        "Orders & Reports",
+        "_____1"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Orders_Reports/Defining_Columns_in_the_Orders_List.htm?TocPath=uStore%7COrders%20%26%20Reports%7C_____2",
+      "relPath": "Orders_Reports/Defining_Columns_in_the_Orders_List.htm",
+      "breadcrumb": [
+        "uStore",
+        "Orders & Reports",
+        "_____2"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Orders_Reports/Managing_Print_Product_Orders.htm?TocPath=uStore%7COrders%20%26%20Reports%7C_____3",
+      "relPath": "Orders_Reports/Managing_Print_Product_Orders.htm",
+      "breadcrumb": [
+        "uStore",
+        "Orders & Reports",
+        "_____3"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Orders_Reports/Managing_Email_Product_Orders.htm?TocPath=uStore%7COrders%20%26%20Reports%7C_____4",
+      "relPath": "Orders_Reports/Managing_Email_Product_Orders.htm",
+      "breadcrumb": [
+        "uStore",
+        "Orders & Reports",
+        "_____4"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Orders_Reports/General_and_Print_Queues.htm?TocPath=uStore%7COrders%20%26%20Reports%7C_____5",
+      "relPath": "Orders_Reports/General_and_Print_Queues.htm",
+      "breadcrumb": [
+        "uStore",
+        "Orders & Reports",
+        "_____5"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Orders_Reports/Handling_Print_Touchpoints.htm?TocPath=uStore%7COrders%20%26%20Reports%7C_____6",
+      "relPath": "Orders_Reports/Handling_Print_Touchpoints.htm",
+      "breadcrumb": [
+        "uStore",
+        "Orders & Reports",
+        "_____6"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Orders_Reports/XM_Campaign_Queues.htm?TocPath=uStore%7COrders%20%26%20Reports%7C_____7",
+      "relPath": "Orders_Reports/XM_Campaign_Queues.htm",
+      "breadcrumb": [
+        "uStore",
+        "Orders & Reports",
+        "_____7"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Orders_Reports/Viewing_Order_Information.htm?TocPath=uStore%7COrders%20%26%20Reports%7C_____8",
+      "relPath": "Orders_Reports/Viewing_Order_Information.htm",
+      "breadcrumb": [
+        "uStore",
+        "Orders & Reports",
+        "_____8"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Orders_Reports/Viewing_Ordered_Item_Information.htm?TocPath=uStore%7COrders%20%26%20Reports%7C_____9",
+      "relPath": "Orders_Reports/Viewing_Ordered_Item_Information.htm",
+      "breadcrumb": [
+        "uStore",
+        "Orders & Reports",
+        "_____9"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Orders_Reports/Managing_the_Order_Lists_View.htm?TocPath=uStore%7COrders%20%26%20Reports%7C_____10",
+      "relPath": "Orders_Reports/Managing_the_Order_Lists_View.htm",
+      "breadcrumb": [
+        "uStore",
+        "Orders & Reports",
+        "_____10"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Orders_Reports/Generating_Reports.htm?TocPath=uStore%7COrders%20%26%20Reports%7C_____11",
+      "relPath": "Orders_Reports/Generating_Reports.htm",
+      "breadcrumb": [
+        "uStore",
+        "Orders & Reports",
+        "_____11"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/SSL_Certificate/ssl.htm?TocPath=uStore%7CSSL%20Certificate%7C_____0",
+      "relPath": "SSL_Certificate/ssl.htm",
+      "breadcrumb": [
+        "uStore",
+        "SSL Certificate",
+        "_____0"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/SSL_Certificate/SSL_Certificate_Overview.htm?TocPath=uStore%7CSSL%20Certificate%7C_____1",
+      "relPath": "SSL_Certificate/SSL_Certificate_Overview.htm",
+      "breadcrumb": [
+        "uStore",
+        "SSL Certificate",
+        "_____1"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/SSL_Certificate/Creating_and_Installing_an_SSL_Certificate.htm?TocPath=uStore%7CSSL%20Certificate%7C_____2",
+      "relPath": "SSL_Certificate/Creating_and_Installing_an_SSL_Certificate.htm",
+      "breadcrumb": [
+        "uStore",
+        "SSL Certificate",
+        "_____2"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Introduction/Introduction_to_uStore.htm?TocPath=uStore%7CIntroduction%7C_____1#IntroductiontouStore",
+      "relPath": "Introduction/Introduction_to_uStore.htm",
+      "breadcrumb": [
+        "uStore",
+        "Introduction",
+        "_____1"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Introduction/Introduction_to_uStore.htm?TocPath=uStore%7CIntroduction%7C_____1#Moretopics",
+      "relPath": "Introduction/Introduction_to_uStore.htm",
+      "breadcrumb": [
+        "uStore",
+        "Introduction",
+        "_____1"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Introduction/uStore_FAQ.htm?TocPath=uStore%7CIntroduction%7C_____2#uStoreFAQ",
+      "relPath": "Introduction/uStore_FAQ.htm",
+      "breadcrumb": [
+        "uStore",
+        "Introduction",
+        "_____2"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Introduction/uStore_FAQ.htm?TocPath=uStore%7CIntroduction%7C_____2#WhatisuStore",
+      "relPath": "Introduction/uStore_FAQ.htm",
+      "breadcrumb": [
+        "uStore",
+        "Introduction",
+        "_____2"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Introduction/uStore_FAQ.htm?TocPath=uStore%7CIntroduction%7C_____2#Storefrontvsbackoffice",
+      "relPath": "Introduction/uStore_FAQ.htm",
+      "breadcrumb": [
+        "uStore",
+        "Introduction",
+        "_____2"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Introduction/uStore_FAQ.htm?TocPath=uStore%7CIntroduction%7C_____2#WhatisFreeFlowCore",
+      "relPath": "Introduction/uStore_FAQ.htm",
+      "breadcrumb": [
+        "uStore",
+        "Introduction",
+        "_____2"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Introduction/uStore_FAQ.htm?TocPath=uStore%7CIntroduction%7C_____2#Whattypesofstorescanbecreated",
+      "relPath": "Introduction/uStore_FAQ.htm",
+      "breadcrumb": [
+        "uStore",
+        "Introduction",
+        "_____2"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Introduction/uStore_FAQ.htm?TocPath=uStore%7CIntroduction%7C_____2#WhattypesofproductscanbesoldinuStore",
+      "relPath": "Introduction/uStore_FAQ.htm",
+      "breadcrumb": [
+        "uStore",
+        "Introduction",
+        "_____2"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Introduction/uStore_FAQ.htm?TocPath=uStore%7CIntroduction%7C_____2#XLIMvsInDesign",
+      "relPath": "Introduction/uStore_FAQ.htm",
+      "breadcrumb": [
+        "uStore",
+        "Introduction",
+        "_____2"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Introduction/uStore_FAQ.htm?TocPath=uStore%7CIntroduction%7C_____2#Howtobegin",
+      "relPath": "Introduction/uStore_FAQ.htm",
+      "breadcrumb": [
+        "uStore",
+        "Introduction",
+        "_____2"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Introduction/Application_Overview.htm?TocPath=uStore%7CIntroduction%7C_____3#ApplicationOverview",
+      "relPath": "Introduction/Application_Overview.htm",
+      "breadcrumb": [
+        "uStore",
+        "Introduction",
+        "_____3"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Introduction/Application_Overview.htm?TocPath=uStore%7CIntroduction%7C_____3#Toolbar",
+      "relPath": "Introduction/Application_Overview.htm",
+      "breadcrumb": [
+        "uStore",
+        "Introduction",
+        "_____3"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Introduction/Application_Overview.htm?TocPath=uStore%7CIntroduction%7C_____3#LeftPanel",
+      "relPath": "Introduction/Application_Overview.htm",
+      "breadcrumb": [
+        "uStore",
+        "Introduction",
+        "_____3"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Introduction/Application_Overview.htm?TocPath=uStore%7CIntroduction%7C_____3#Mainworkarea",
+      "relPath": "Introduction/Application_Overview.htm",
+      "breadcrumb": [
+        "uStore",
+        "Introduction",
+        "_____3"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Managing_uStore_Presets.htm?TocPath=uStore%7CPresets%7C_____1#ManaginguStorePresets",
+      "relPath": "Presets/Managing_uStore_Presets.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____1"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Managing_Coupon_Batches.htm?TocPath=uStore%7CPresets%7C_____3#ManagingCouponBatches",
+      "relPath": "Presets/Managing_Coupon_Batches.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____3"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Managing_Coupon_Batches.htm?TocPath=uStore%7CPresets%7C_____3#Addacouponbatch",
+      "relPath": "Presets/Managing_Coupon_Batches.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____3"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Defining_Currencies.htm?TocPath=uStore%7CPresets%7C_____4#DefiningCurrencies",
+      "relPath": "Presets/Defining_Currencies.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____4"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Defining_Data_Sources.htm?TocPath=uStore%7CPresets%7C_____5#DefiningDataSources",
+      "relPath": "Presets/Defining_Data_Sources.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____5"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_Document_Repositories.htm?TocPath=uStore%7CPresets%7C_____7#SettingUpDocumentRepositories",
+      "relPath": "Presets/Setting_Up_Document_Repositories.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____7"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_Document_Repositories.htm?TocPath=uStore%7CPresets%7C_____7#SetupInfofileparameters",
+      "relPath": "Presets/Setting_Up_Document_Repositories.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____7"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_Document_Repositories.htm?TocPath=uStore%7CPresets%7C_____7#Example",
+      "relPath": "Presets/Setting_Up_Document_Repositories.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____7"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_Document_Repositories.htm?TocPath=uStore%7CPresets%7C_____7#SetupHTTPWebHandlerparameters",
+      "relPath": "Presets/Setting_Up_Document_Repositories.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____7"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_Document_Repositories.htm?TocPath=uStore%7CPresets%7C_____7#Set_up_Info_file_parameters",
+      "relPath": "Presets/Setting_Up_Document_Repositories.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____7"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_Document_Repositories.htm?TocPath=uStore%7CPresets%7C_____7#Set_up_HTTP_Web_Handler_parameters",
+      "relPath": "Presets/Setting_Up_Document_Repositories.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____7"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_Global_Product_Properties.htm?TocPath=uStore%7CPresets%7C_____8#SettingUpGlobalProductProperties",
+      "relPath": "Presets/Setting_Up_Global_Product_Properties.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____8"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_Manufacturers.htm?TocPath=uStore%7CPresets%7C_____9#SettingUpManufacturers",
+      "relPath": "Presets/Setting_Up_Manufacturers.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____9"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_Manufacturers.htm?TocPath=uStore%7CPresets%7C_____9#Viewmanufacturers",
+      "relPath": "Presets/Setting_Up_Manufacturers.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____9"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_Manufacturers.htm?TocPath=uStore%7CPresets%7C_____9#Addmanufacturers",
+      "relPath": "Presets/Setting_Up_Manufacturers.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____9"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_Manufacturers.htm?TocPath=uStore%7CPresets%7C_____9#Addamanufacturerwebhook",
+      "relPath": "Presets/Setting_Up_Manufacturers.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____9"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Localizing_your_Storefront_and_Backoffice.htm?TocPath=uStore%7CPresets%7C_____10#LocalizingyourStorefrontandBackoffice",
+      "relPath": "Presets/Localizing_your_Storefront_and_Backoffice.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____10"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Localizing_your_Storefront_and_Backoffice.htm?TocPath=uStore%7CPresets%7C_____10#Setthebackofficeculture",
+      "relPath": "Presets/Localizing_your_Storefront_and_Backoffice.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____10"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Localizing_your_Storefront_and_Backoffice.htm?TocPath=uStore%7CPresets%7C_____10#AddaculturetouStore",
+      "relPath": "Presets/Localizing_your_Storefront_and_Backoffice.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____10"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Localizing_your_Storefront_and_Backoffice.htm?TocPath=uStore%7CPresets%7C_____10#ChangetheuStorewelcomemessage",
+      "relPath": "Presets/Localizing_your_Storefront_and_Backoffice.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____10"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Localizing_your_Storefront_and_Backoffice.htm?TocPath=uStore%7CPresets%7C_____10#Localizesystemtables",
+      "relPath": "Presets/Localizing_your_Storefront_and_Backoffice.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____10"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Localizing_your_Storefront_and_Backoffice.htm?TocPath=uStore%7CPresets%7C_____10#Exportandimportlocalizations",
+      "relPath": "Presets/Localizing_your_Storefront_and_Backoffice.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____10"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Localizing_your_Storefront_and_Backoffice.htm?TocPath=uStore%7CPresets%7C_____10#Exportlocalizations",
+      "relPath": "Presets/Localizing_your_Storefront_and_Backoffice.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____10"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Localizing_your_Storefront_and_Backoffice.htm?TocPath=uStore%7CPresets%7C_____10#Importlocalizations",
+      "relPath": "Presets/Localizing_your_Storefront_and_Backoffice.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____10"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Localizing_your_Storefront_and_Backoffice.htm?TocPath=uStore%7CPresets%7C_____10#Localize_system_tables",
+      "relPath": "Presets/Localizing_your_Storefront_and_Backoffice.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____10"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Using_the_Proxy_Setup_Utility.htm?TocPath=uStore%7CPresets%7C_____11#UsingtheProxySetup",
+      "relPath": "Presets/Using_the_Proxy_Setup_Utility.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____11"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_Tax.htm?TocPath=uStore%7CPresets%7C_____13#SettingUpTax",
+      "relPath": "Presets/Setting_Up_Tax.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____13"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_Tax.htm?TocPath=uStore%7CPresets%7C_____13#Addtax",
+      "relPath": "Presets/Setting_Up_Tax.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____13"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_Tax.htm?TocPath=uStore%7CPresets%7C_____13#Addataxwebhook",
+      "relPath": "Presets/Setting_Up_Tax.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____13"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_Tax.htm?TocPath=uStore%7CPresets%7C_____13#Moretopics",
+      "relPath": "Presets/Setting_Up_Tax.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____13"
+      ]
+    },
+    {
+      "url": "https://help.xmpie.com/uStore/Latest/Help/en/Presets/Setting_Up_User_Details_Fields.htm?TocPath=uStore%7CPresets%7C_____15#SettingUpUserDetailsFields",
+      "relPath": "Presets/Setting_Up_User_Details_Fields.htm",
+      "breadcrumb": [
+        "uStore",
+        "Presets",
+        "_____15"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+Introduction
+Introduction
+Overview of Key PrintSmith Vision Features
+PrintSmith Vision: ePS-Hosted vs Customer-Hosted
+PrintSmith Vision Basics
+How PrintSmith Vision Works
+PrintSmith Vision Home Page
+Home Page Contents
+Quick Access Panel
+Defining Sales Tax or Value Added Tax
+Defining Sales Tax or Value Added Tax
+Setting Up the Sales Tax Table
+Editing Tax Tables
+Importing and Exporting Sales Tax
+Tax Exemptions
+Using Product-Level Taxation
+Line-Item Taxation
+Estimating
+Estimating
+Create Jobs (Job Methods)
+Printing Job
+Roll Fed Job
+B&W or Color Job
+Large Format Job
+Signage Job
+Charges Only Job
+Job for Blank Stock
+List Based Job
+Outside Service Job
+Merchandise Job
+Multi Part Job
+Lines and Inches
+Free Style Job
+Creating a Job from Account History
+Create Job from Templates
+Account Information Tab
+Estimate Summary Tab
+Costing Tab
+Invoicing
+Invoicing
+Invoice Summary Tab
+Pending Document
+Pending Documents
+Pending Document Options
+Work in Progress (WIP)
+Work in Progress (WIP)
+WIP Mode
+Report Mode
+Point of Sale (POS)
+Cash Register
+Cash Register
+Using the Cash Register
+Picking up Invoice from Cash Register
+Cash Drawer Status
+Post Payment
+Post Payments
+Handling Refunds
+Accounts
+Accounts
+Creating Accounts
+Customer Account Options
+Importing Accounts
+Deleting Accounts
+Adding Contacts to Accounts or Prospects
+Contacts
+Contacts
+Creating Contacts
+Importing Contacts
+Editing Contacts
+Deleting Contacts
+Account Receivable (AR)
+Journal Entries
+General Procedure for Making Journal Entries
+Journal Entries
+Journal Entry Examples
+Register Tape
+Closeout
+Automatic Closeouts
+Closeout
+Deposit Ticket
+Manual Closeouts
+Account Utility
+Account Aging
+Customizing Your Statements
+Generating Statements
+Post POS Charges
+Stock Definition
+Stock Definition
+Stock Definition Window
+Import Stock
+Import Stock
+Import Procedure
+Export Report
+Charge Definitions
+Charge Definitions
+Creating a Charge
+Press Definition
+Press Definition
+Creating Press Definitions
+Digital Definitions
+Pricing Methods for Digital Definitions
+Pricing Two-Sided Jobs
+Handling Stock Pricing
+Setting up a Matrix Table
+Providing Costing Information
+Selecting Default Press Definitions
+Change Price
+Change Price
+Restoring Price
+Updating Stock Prices
+History
+History
+Estimating History
+PO History
+Reports
+Ordering Stock
+Ordering Stock
+Receiving Stock Orders
+Report Manager
+Report Manager
+Document Preferences
+Overriding a Standard Report
+Adding and Printing Custom Reports
+Downloading and Uploading Reports
+Exporting Data from a Custom Report
+Scheduling Custom Reports
+Using FTP Site for Reports
+Account Ranking
+Re-Order List Report
+Customer List
+Templates
+Email Template
+Template Category
+Web Product Templates
+Admin
+User Definitions
+Security Setup
+Batch Print Documents
+Fold Templates
+Paper Templates
+Delivery Ticket Manager
+Configuring Delivery Tickets
+Creating Delivery Tickets
+Delivery Ticket Manager
+Printing the Delivery Tickets
+Debug RPC
+PrintSmith Vision SyncMaster
+SyncMaster Overview
+Export Data
+Import Data
+Information About Exported/Imported Data
+Table Editor
+Preferences
+Preferences
+CardConnect Setup
+Credit Card Manager
+Integration
+Multi-Owner Interface
+JDF Folder Setup
+Settings
+System Preferences
+Point of Sale (POS) Preferences
+Estimator Preferences
+Account Preferences
+E-Mail Preferences
+System Monitor
+System Monitor
+User Sessions
+User Events
+E-Mail Status
+Backup Manager Preferences
+Backup Manager Preferences
+Copyright

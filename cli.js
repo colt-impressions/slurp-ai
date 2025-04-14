@@ -3,7 +3,7 @@
 const path = require('path');
 // Explicitly load .env from the script's directory
 require('dotenv').config({ path: path.resolve(__dirname, '.env') });
-const DocumentationScraper = require('./src/DocumentationScraper');
+const DocumentationScraper = require('./src/DocumentationScraperCustom');
 const { MarkdownCompiler } = require('./src/MarkdownCompiler');
 const fs = require('fs-extra');
 const chalk = require('chalk') || { green: (s) => s, red: (s) => s, yellow: (s) => s, blue: (s) => s, gray: (s) => s };
@@ -14,6 +14,13 @@ const chalk = require('chalk') || { green: (s) => s, red: (s) => s, yellow: (s) 
  */
 
 // Command line argument parsing
+// Define parameters
+let paramsMap = {
+  '--url-list': 'url-list',
+  '--verbose': 'verbose',
+  '--concurrency': 'concurrency',
+  '--output': 'output',
+};
 const args = process.argv.slice(2);
 const command = args[0]; // The command (read, fetch, list, etc.)
 const params = {};
@@ -155,14 +162,32 @@ async function main() {
     const outputName = siteName || '';
     const outputFilename = `${outputName}_docs.md`;
 
-    // Use 'compiled' as the standard output directory, configurable via .env
-    // Use SLURP_COMPILED_DIR for the final output directory, defaulting to 'compiled'
-    const outputDir = process.env.SLURP_COMPILED_DIR || 'compiled';
-    const finalOutputPath = path.join(outputDir, outputFilename);
+    // Determine the output directory
+    // First check if user provided --output flag to override everything
+    let finalOutputPath;
+    if (params.output) {
+      // Check if the output is a directory or includes a filename
+      if (params.output.endsWith('.md')) {
+        // User provided full path including filename
+        finalOutputPath = params.output;
+      } else {
+        // User provided a directory, append the generated filename
+        finalOutputPath = path.join(params.output, outputFilename);
+      }
+    } else {
+      // No --output flag, use default behavior
+      // Use 'compiled' as the standard output directory, configurable via .env
+      const outputDir = process.env.SLURP_COMPILED_DIR || 'compiled';
+      finalOutputPath = path.join(outputDir, outputFilename);
+    }
+    
+    console.log(`Final compiled output will be: ${finalOutputPath}`);
 
     // Ensure the output directory exists
-    if (!fs.existsSync(outputDir)) {
-      fs.mkdirSync(outputDir, { recursive: true });
+    // Get the directory part of the finalOutputPath
+    const outputDirPath = path.dirname(finalOutputPath);
+    if (!fs.existsSync(outputDirPath)) {
+      fs.mkdirSync(outputDirPath, { recursive: true });
     }
 
     // Use 'compiled' as the standard output directory, but allow it to be configurable via .env
@@ -379,6 +404,12 @@ async function scrapeFromUrl(url, library, version) {
       structuredOutputDir = path.join(structuredOutputDir, version);
     }
     
+    // Support for URL list
+    const urlListPath = params['url-list'] || null;
+    if (urlListPath) {
+      console.log(`Using URL list from: ${urlListPath}`);
+    }
+    
     // Configure the scraper
     const scrapeConfig = {
       baseUrl: url,
@@ -409,9 +440,15 @@ async function scrapeFromUrl(url, library, version) {
         'style',
         '.headerlink'
       ],
-      
       // Domain restrictions
       allowedDomains: [urlObj.hostname],
+      
+      // Enable verbose logging for debugging
+      verboseLogging: params.verbose || false,
+      
+      
+      // Add URL list support
+      urlListPath: urlListPath,
       
       // Async queue options
       concurrency: parseInt(params.concurrency || process.env.SLURP_CONCURRENCY || '10', 10),
